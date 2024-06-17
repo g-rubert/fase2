@@ -29,3 +29,6 @@ usuário é direcionado para a página inicial;
 **Obs.:** Os formulários de cadastro e o botão de compra de produtos não possuem ação.
 
 **Front-End:** HTML, CSS, Javascript, Bootstrap 4.3.1
+**Recursos do bootstrap:** Carousel, Cards, Form, Navbar
+**CSS:** Customização de classes do bootstrap, estilização de elementos da página, estilização dos formulários de cadastro
+**HTML:** input (date, text, submit, number, email), select, header, footer
