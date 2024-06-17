@@ -15,8 +15,8 @@ formulário de cadastro do cliente;
 oferecidos pela PetShop separados por categorias (animais de pequeno e grande 
 porte). Sobre cada serviço será apresentada a descrição e o valor; 
   - **Produtos:** replica o menu horizontal no cabeçalho da página e lista os produtos 
-oferecidos pela PetShop apresentando a sua foto, descrição e valor; 
-  -**Cadastro do Pet:** replica o menu horizontal no cabeçalho da página e apresenta o 
+oferecidos pela PetShop apresentando a sua foto, descrição e valor;
+  - **Cadastro do Pet:** replica o menu horizontal no cabeçalho da página e apresenta o 
 formulário de cadastro do pet; 
   - Escolha do serviço oferecido pela PetShop: apresenta um formulário solicitando o 
 agendamento do serviço e a opção para tele-busca. 
