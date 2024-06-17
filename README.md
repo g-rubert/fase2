@@ -24,6 +24,8 @@ agendamento do serviço e a opção para tele-busca.
 A navegação entre as seções será realizada através de um menu horizontal, 
 posicionado no topo da página, cotendo a logo da marca da PetShop e as 
 opções: “Cadastro”, “Produtos”, “Serviços” e “Cadastro do Pet”. Ao clicar no logo da marca o 
-usuário é direcionado para a página inicial; 
+usuário é direcionado para a página inicial;
+
+**Obs.:** Os formulários de cadastro e o botão de compra de produtos não possuem ação.
 
 **Front-End:** HTML, CSS, Javascript, Bootstrap 4.3.1
