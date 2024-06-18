@@ -162,3 +162,21 @@ header{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 20px;
 }
+
+/* Mobile form style */
+@media screen and (max-width: 600px) {
+    .cadastro {
+        background-color: white;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 2%;
+        margin-bottom: 10%;
+        padding-left: 2%;
+        padding-right: 2%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        border-color: #565756;
+        border-radius: 1%;
+        box-shadow: 0 0 1em rgba(45, 45, 44, 0.29);
+    }
+  }
